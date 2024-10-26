@@ -8,5 +8,8 @@ namespace AlgorytmyiStrukturyDanych
 {
     internal class NodeL
     {
+        public NodeL n;
+        public NodeL p;
+        public int data;
     }
 }

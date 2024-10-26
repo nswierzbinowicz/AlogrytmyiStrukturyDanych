@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,9 +19,11 @@ namespace AlgorytmyiStrukturyDanych
         }
         public void AddLast(int liczba)
         {
-            var tmp = new NodeL(7);
-            tmp.p = this tail;
-            tmp.n = 
+            var tmp = new NodeL(7); //(1)
+            tmp.p = this.tail; //(2)
+            this.tail.n = tmp; //(3)
+            this.tail = tmp; //(4)
+            this.count++;
         }
     }
 }
