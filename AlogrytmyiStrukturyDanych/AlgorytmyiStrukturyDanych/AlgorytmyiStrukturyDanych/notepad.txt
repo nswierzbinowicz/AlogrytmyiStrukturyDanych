@@ -1,0 +1,6 @@
+AddFirst
+AddLast
+RemoveFirst
+RemoveLast
+Get(int index) //index od 0
+ToString()
