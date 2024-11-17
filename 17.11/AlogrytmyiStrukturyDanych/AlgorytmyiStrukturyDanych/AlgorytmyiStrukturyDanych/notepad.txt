@@ -1,0 +1,9 @@
+AddFirst
+AddLast
+RemoveFirst
+RemoveLast
+Get(int index) //index od 0
+ToString() zamiana wszystkich wartośći z Data do stringa i ich wyświetlenie, po kolei
+wypisać to na GUI, żeby to wykorzystać FORM
+
+Pracujemy na NodeL
