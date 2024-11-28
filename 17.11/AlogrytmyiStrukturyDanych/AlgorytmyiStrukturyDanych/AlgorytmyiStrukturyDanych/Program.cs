@@ -12,14 +12,6 @@ namespace AlgorytmyiStrukturyDanych
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             Application.Run(new Form1());
-
-            //MergeSort(Tab, p punkt pocz¹tkowy,r punkt koñcowy)
-            //if p < r (punkt pocz¹tkowy mniejszy od punktu koñcowego)
-            //q = (p+r)/2
-            //MergeSort(T,p,q)
-            //MergeSort(T,q+1,r)
-            //SCAL(T,p,q,r)
-            //quicksort
         }
     }
 }

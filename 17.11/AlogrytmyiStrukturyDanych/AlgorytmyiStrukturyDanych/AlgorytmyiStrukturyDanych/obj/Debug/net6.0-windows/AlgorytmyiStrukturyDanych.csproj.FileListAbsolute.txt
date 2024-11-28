@@ -5,3 +5,10 @@ D:\175208\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych 26.10\AlgorytmyiSt
 D:\175208\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych 26.10\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.AssemblyInfoInputs.cache
 D:\175208\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych 26.10\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.AssemblyInfo.cs
 D:\175208\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych 26.10\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.csproj.CoreCompileInputs.cache
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.Form1.resources
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.csproj.GenerateResource.cache
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.AssemblyInfoInputs.cache
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.AssemblyInfo.cs
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.csproj.CoreCompileInputs.cache
+D:\C#\17.11\AlogrytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\AlgorytmyiStrukturyDanych\obj\Debug\net6.0-windows\AlgorytmyiStrukturyDanych.sourcelink.json

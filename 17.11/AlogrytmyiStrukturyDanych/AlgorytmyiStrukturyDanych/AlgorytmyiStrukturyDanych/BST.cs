@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -28,7 +29,7 @@ namespace AlgorytmyiStrukturyDanych
             }
             if (dziecko.data >= rodzic.data)
             {
-                if (rodzc.prawa == null)
+                if (rodzic.prawa == null)
                 {
                     return rodzic;
                 }
@@ -62,4 +63,25 @@ namespace AlgorytmyiStrukturyDanych
         }
 
     }
+
+    public NodeT usunBezdzietne()
+        {
+            var bezdzietny = this.root;
+                while (true) {
+                    if{ bezdzietny.lewa == null && bezdzietny.prawa == null}
+                    {
+                        var bezdzietnyReturn = bezdzietny;
+                        bezdzietny = null;
+                        return bezdzietnyReturn;
+                    }
+                    else if (bezdzietny.lewa != null)
+                    {
+                        bezdzietny = bezdzietny.lewa;
+                    }
+                    else if (bezdzietny.prawa != null)
+                    {
+                        bezdzietny = bezdzietny.prawa;
+                    }
+            }
+        }
 }

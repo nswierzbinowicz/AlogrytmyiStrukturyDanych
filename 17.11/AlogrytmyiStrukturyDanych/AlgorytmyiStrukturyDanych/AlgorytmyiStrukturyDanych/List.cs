@@ -15,19 +15,41 @@ namespace AlgorytmyiStrukturyDanych
 
         public void AddFirst(int liczba)
         {
-            var tmp = new NodeL(2);
-            tmp.n = this.head;
-            this.head.p = tmp;
-            this.head = tmp;
-            this.count++;
+            if (this.head == null)
+            {
+                var tmp = new NodeL();
+                this.tail = tmp;
+                this.head = tmp;
+                tmp.data = liczba;
+            }
+            else
+            {
+                var tmp = new NodeL();
+                tmp.n = this.head;
+                this.head.p = tmp;
+                this.head = tmp;
+                this.count++;
+                tmp.data = liczba;
+            }
         }
         public void AddLast(int liczba)
         {
-            var tmp = new NodeL(7); //(1)
-            tmp.p = this.tail; //(2)
-            this.tail.n = tmp; //(3)
-            this.tail = tmp; //(4)
-            this.count++; //5
+            if (this.head == null)
+            {
+                var tmp = new NodeL();
+                this.tail = tmp;
+                this.head = tmp;
+                tmp.data = liczba;
+            }
+            else
+            {
+                var tmp = new NodeL(); //(1)
+                tmp.p = this.tail; //(2)
+                this.tail.n = tmp; //(3)
+                this.tail = tmp; //(4)
+                this.count++; //5
+                tmp.data = liczba;
+            }
         }
         public void RemoveLast()
         {

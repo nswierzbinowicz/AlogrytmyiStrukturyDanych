@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\local\\.nuget\\packages\\": {}
+    "C:\\Users\\norbi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\175208\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych 26.10\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych.csproj",
+      "projectUniqueName": "D:\\C#\\17.11\\AlogrytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych.csproj",
       "projectName": "AlgorytmyiStrukturyDanych",
-      "projectPath": "D:\\175208\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych 26.10\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych.csproj",
-      "packagesPath": "C:\\Users\\local\\.nuget\\packages\\",
-      "outputPath": "D:\\175208\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych 26.10\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\obj\\",
+      "projectPath": "D:\\C#\\17.11\\AlogrytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych.csproj",
+      "packagesPath": "C:\\Users\\norbi\\.nuget\\packages\\",
+      "outputPath": "D:\\C#\\17.11\\AlogrytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\AlgorytmyiStrukturyDanych\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\local\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\norbi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,7 +45,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net6.0-windows7.0": {
@@ -64,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
