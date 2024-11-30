@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AlgorytmyiStrukturyDanych")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9eb63f4d2cb5bb3593bc3ffa4d2a713c964c3b5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("AlgorytmyiStrukturyDanych")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AlgorytmyiStrukturyDanych")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
