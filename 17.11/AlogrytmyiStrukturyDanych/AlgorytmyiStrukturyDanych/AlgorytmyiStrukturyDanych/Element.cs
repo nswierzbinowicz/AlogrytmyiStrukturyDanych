@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace AlgorytmyiStrukturyDanych
 {
-    public class Edge
+    internal class Element
     {
-        public NodeG start;
-        public NodeG end;
-        int weight;
+        public NodeG wezel;
+        public int dystans;
+        NodeG poprzednik;
     }
 }

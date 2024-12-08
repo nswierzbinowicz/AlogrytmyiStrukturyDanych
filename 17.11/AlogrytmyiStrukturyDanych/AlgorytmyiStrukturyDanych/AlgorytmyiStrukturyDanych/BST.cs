@@ -13,7 +13,7 @@ namespace AlgorytmyiStrukturyDanych
     }
     public NodeT znajdzRodzica(NodeT dziecko)
     {
-        var rodzic = this.root;
+        var rodzic = root;
         while (true)
         {
             if (dziecko.data < rodzic.data)
@@ -68,7 +68,7 @@ namespace AlgorytmyiStrukturyDanych
         {
             var bezdzietny = this.root;
                 while (true) {
-                    if{ bezdzietny.lewa == null && bezdzietny.prawa == null}
+                    if( bezdzietny.lewa == null && bezdzietny.prawa == null)
                     {
                         var bezdzietnyReturn = bezdzietny;
                         bezdzietny = null;

@@ -8,16 +8,36 @@ namespace AlgorytmyiStrukturyDanych
 {
     internal class Graf
     {
-        List<NodeG> nodes =[] ;
-        List<Edge> edges =[] ;
-    }
-    
-    int ileNoweychEdege(Edge k)
-    {
-        //mam krawędź k, mam w krawędzi k.start i k.end mam sprawdzić czy one należą do listy nodów
-    }
-    void Add(Edge k)
-    {
+        List<NodeG> nodes = new List<NodeG>();
+        List<Edge> edges = new List<Edge>();
 
+        void Add(Edge k)
+        {
+
+        }
+        Element[] AlgorytmDijkstry(NodeG start)
+        {
+            var tabelka = this.przygotujTabelke(start); //do zrobienia w domu
+            var zbS = new List<NodeG>();
+            return tabelka;
+        }
+
+        List<Edge> ZnajdzNajmniejszyDystans(List<Element> tabelka, List<NodeG> zbS)
+        {
+            var wynik = tabelka.Where(e => !zbS.Contains(e.wezel)).OrderBy(e => e.dystans).First();
+            var a = this.edges.Where(k => k.start == wynik.wezel && !zbS.Contains(k.end)).ToList();
+            return a;
+        }
+
+        Element[] przygotujTabelke(NodeG start)
+        {   
+            var tabela = new Element[this.nodes.Count];
+            for(NodeG node in this.nodes)
+            {
+                tabela.
+            }
+            return tabela;
+        }
     }
 }
+
