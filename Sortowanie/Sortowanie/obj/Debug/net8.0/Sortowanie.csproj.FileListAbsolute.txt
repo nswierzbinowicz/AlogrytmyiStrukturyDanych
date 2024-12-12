@@ -1,0 +1,15 @@
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.exe
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.deps.json
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.runtimeconfig.json
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.dll
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\bin\Debug\net8.0\Sortowanie.pdb
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.AssemblyInfoInputs.cache
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.AssemblyInfo.cs
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.csproj.CoreCompileInputs.cache
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.sourcelink.json
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.dll
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\refint\Sortowanie.dll
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.pdb
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\Sortowanie.genruntimeconfig.cache
+D:\C#\Sortowanie\.vs\Sortowanie\Sortowanie\obj\Debug\net8.0\ref\Sortowanie.dll
