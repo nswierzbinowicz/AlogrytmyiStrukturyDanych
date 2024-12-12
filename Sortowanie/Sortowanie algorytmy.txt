@@ -1,0 +1,50 @@
+Bubble sort
+1. Utwórz zmienną temp
+2. Stwórz pętlę iterującą po tablicy
+3. Stwórz pętlę iterującą po tablicy - 1
+4. Jeżeli j > j+1, zamień elementy
+
+
+Insert sort
+
+1. Stwórz pętlę iterującą po tablicy zaczynając od 1
+2. Stwórz zmienną temp = tab[i]
+3. Stwórz zmienną j = i - 1
+4. Stwórz pętlę while gdzie j >= 0 i tab[j] > temp;
+5.Zamień tab[j] i tab[j+1] miejscami
+6.W miejsce tab[j+1] wstaw temp
+
+
+Merge sort
+1. Zapisz długość tablicy i warunek jeżeli długość <= 1 wtedy return
+2. Wyznacz środek tablicy
+3. Stwórz lewą[mid] i prawą[length-mid] tablicę i zmienne i,j = 0
+4. Stwórz pętle, wszystko < od mid do lewej, reszta do prawej
+5. Rekurencja mergesort lewej, merge sort prawej, merge[lewa,prawa,tablica]
+6. Stwórz funkcję merge przyjmującą lewą tablicę, prawą tablicę i całą tablicę
+7. Stwórz zmienne wielkosclewej, wielkość prawej i,l,r = 0
+8. Stwórz pętlę while porównującą l i r do odpowiednich im wielkości
+9. Porównuj elementy tablicy lewej l i prawej r, mniejszy wstaw do głównej tablicy i++ l++/r++
+10 Rozdziel główną pętlę na dwie znak &&
+
+Quick sort
+1. Stwórz metodę przyjmującą tablicę indeks start i koniec
+2. Jeżeli koniec <= start wtedy return
+3. Zmienna pivot = nowa metoda przyjmująca tablicę start i koniec
+4. rekurencja przyjmująca tablicę, start i pivot - 1
+5. rekurencja przyjmująca tablicę, pivot + 1 i koniec
+6. Stwórz nową metodę przyjmującą tablicę start i koniec
+7. Przyjmij, że pivot to koniec tablicy
+8. int i to start - 1
+9. Stwórz pętlę for j to start, j <= end - 1, j++
+10.Jeżeli tab[j] < pivota to i++ i zamień tab[i] i tab[j] miejscami
+11.Na koniec i++ i zamień tab[i] i tab[end] miejscami i zwróć i
+
+Counting sort
+1. Wyznacz minimalny i maksymalny element w tablicy
+2. Stwórz tablice count o długości max - min + 1
+3. Stwórz tablicę output o długości tablicy
+4. Stwórz pętlę inicjalizującą tablicę count count[tab[i] - min]++
+5. Stwórz pętlę dodającą poprzednią wartość do obecnej w tablic count
+6. Stwórz pętlę idącą od końca tab output[count[tab[i] - min] - 1] = tab[i]; count[tab[i] - min]--;
+7. Podmień output z tab
