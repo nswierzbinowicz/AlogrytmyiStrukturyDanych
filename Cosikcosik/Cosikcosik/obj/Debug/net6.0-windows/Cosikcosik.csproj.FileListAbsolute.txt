@@ -1,0 +1,17 @@
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.csproj.AssemblyReference.cache
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.Form1.resources
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.csproj.GenerateResource.cache
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.GeneratedMSBuildEditorConfig.editorconfig
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.AssemblyInfoInputs.cache
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.AssemblyInfo.cs
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.csproj.CoreCompileInputs.cache
+D:\175208\Cosikcosik\Cosikcosik\bin\Debug\net6.0-windows\Cosikcosik.exe
+D:\175208\Cosikcosik\Cosikcosik\bin\Debug\net6.0-windows\Cosikcosik.deps.json
+D:\175208\Cosikcosik\Cosikcosik\bin\Debug\net6.0-windows\Cosikcosik.runtimeconfig.json
+D:\175208\Cosikcosik\Cosikcosik\bin\Debug\net6.0-windows\Cosikcosik.dll
+D:\175208\Cosikcosik\Cosikcosik\bin\Debug\net6.0-windows\Cosikcosik.pdb
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.dll
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\refint\Cosikcosik.dll
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.pdb
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\Cosikcosik.genruntimeconfig.cache
+D:\175208\Cosikcosik\Cosikcosik\obj\Debug\net6.0-windows\ref\Cosikcosik.dll
